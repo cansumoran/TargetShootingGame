@@ -11,6 +11,7 @@ Features:
    * Accuracy: 90%
    * Damage: 40 units
    * Reload time: 4 seconds
+   
   AK-47:
    * Can shoot 400 bullets per minute
    * Auto firing system
