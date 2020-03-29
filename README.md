@@ -4,6 +4,7 @@ A simple shooting game where the user can select between two guns and shoot the 
 Language: C#
 
 Features:
+
   Desert Eagle:
    * Can shoot 60 bullets per minute
    * Semi-auto firing system (the trigger must be pulled for every firing)
